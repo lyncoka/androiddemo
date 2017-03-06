@@ -5,7 +5,7 @@ buildscript {
         //jcenter()
 	//mavenCentral()
 	 maven{ url 'http://maven.paic.com.cn/repository/maven-public/'}
-    }
+    
 
     }
     dependencies {
